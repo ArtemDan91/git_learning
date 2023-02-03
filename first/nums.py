@@ -1,6 +1,9 @@
-def plus(a: int, b: int) -> int:
+def plus(a, b):
     """
-    Text
+    4554796254623453534535
+    :param a:
+    :param b:
+    :return:
     """
     return a + b
 
