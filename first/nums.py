@@ -1,4 +1,7 @@
-def plus(a, b):
+def plus(a: int, b: int) -> int:
+    """
+    Text
+    """
     return a + b
 
 
