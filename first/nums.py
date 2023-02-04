@@ -1,12 +1,11 @@
-def plus(a, b):
+def plus(a: int | float, b: int | float) -> int | float:
     return a + b
 
 
-def minus(a, b):
+def minus(a: int | float, b: int | float) -> int | float:
     return a - b
 
-
-def multy(a, b):
+def multy(a: int | float, b: int | float) -> int | float:
     return a * b
 
 
