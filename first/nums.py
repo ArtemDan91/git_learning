@@ -9,6 +9,10 @@ def multy(a: int | float, b: int | float) -> int | float:
     return a * b
 
 
+def div(a: int | float, b: int | float) -> int | float:
+    return a / b
+
+
 if __name__ == '__main__':
     print(plus(2, 2))
     print(minus(10, 5))
